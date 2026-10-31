@@ -1,4 +1,7 @@
-# espeak-skill
+<div align="center">
+  <img src="assets/logo.svg" alt="eSpeak Skill Logo" width="200"/>
+  <h1>espeak-skill</h1>
+</div>
 
 Offline text-to-speech with [eSpeak NG](https://github.com/espeak-ng/espeak-ng) / eSpeak. Provides a wrapper script and skill documentation for voice selection, tuning, WAV/MP3 output, streaming, SSML, and pronunciation debugging.
 
